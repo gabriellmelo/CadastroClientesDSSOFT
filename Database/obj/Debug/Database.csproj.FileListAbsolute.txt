@@ -1,0 +1,6 @@
+C:\Users\gabri\source\repos\CadastroClientesDS\Database\bin\Debug\Database.dll
+C:\Users\gabri\source\repos\CadastroClientesDS\Database\bin\Debug\Database.pdb
+C:\Users\gabri\source\repos\CadastroClientesDS\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\CadastroClientesDS\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\CadastroClientesDS\Database\obj\Debug\Database.dll
+C:\Users\gabri\source\repos\CadastroClientesDS\Database\obj\Debug\Database.pdb

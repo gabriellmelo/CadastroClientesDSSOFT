@@ -1,0 +1,9 @@
+C:\Users\gabri\source\repos\CadastroClientesDS\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\CadastroClientesDS\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\CadastroClientesDS\Business\bin\Debug\Business.dll
+C:\Users\gabri\source\repos\CadastroClientesDS\Business\bin\Debug\Business.pdb
+C:\Users\gabri\source\repos\CadastroClientesDS\Business\bin\Debug\Database.dll
+C:\Users\gabri\source\repos\CadastroClientesDS\Business\bin\Debug\Database.pdb
+C:\Users\gabri\source\repos\CadastroClientesDS\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\gabri\source\repos\CadastroClientesDS\Business\obj\Debug\Business.dll
+C:\Users\gabri\source\repos\CadastroClientesDS\Business\obj\Debug\Business.pdb
